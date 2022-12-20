@@ -1,0 +1,17 @@
+{
+  "name": "node-js-and-express-js-full-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alternative.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
